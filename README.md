@@ -4,7 +4,8 @@ Modified and optimized nastaliq fonts - WebFont/Desktop/Mobile soupported
 
 
 Editor : [Mohammad Saleh Souzanchi](https://github.com/zoghal )
-Demo :
+
+Demo : http://ritaco.github.io/WebFont-Nastaliq/
 * * *
 
 ?  		      |	   Old Version	 | New Version |
