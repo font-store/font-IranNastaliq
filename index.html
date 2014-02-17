@@ -27,25 +27,26 @@ $(document).ready(function(){
 <style type="text/css" media="all">
 
 
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+		font-family: 'WebNastaliq';
+		src: url('WebFonts/IranNastaliqWeb.otf') format('opentype');
+		    font-weight: normal;
+    font-style: normal;
+	}
+}
 
 @font-face {
     font-family: 'WebNastaliq';
-    src: url('fonts/IranNastaliqWeb.eot');
-    src: url('fonts/IranNastaliqWeb.eot?#iefix') format('embedded-opentype'),
-         url('fonts/IranNastaliqWeb.woff') format('woff'),
-         url('fonts/IranNastaliqWeb.ttf') format('truetype');
-         url('fonts/IranNastaliqWeb.svg#WebNastaliq') format('svg'),
+    src: url('WebFonts/IranNast1aliqWeb.woff') format('woff'),
+         url('WebFonts/IranNas1taliqWeb.ttf') format('truetype');
+
     font-weight: normal;
     font-style: normal;
 
 
 }
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-	@font-face {
-		font-family: 'chunk-webfont';
-		src: url('fonts/IranNastaliqWeb.svg') format('svg');
-	}
-}
+
 
 
 *{
