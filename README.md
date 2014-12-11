@@ -1,11 +1,12 @@
-WebFont-Nastaliq
+Font IranNastaliq
 ================
-Modified and optimized nastaliq fonts - WebFont/Desktop/Mobile soupported
+Modified and optimized nastaliq fonts
+WebFont/Desktop/Mobile soupported
 
+scripter : Hossein zahedi (http://parsfont.com)
+optimized : [Mohammad Saleh Souzanchi](https://github.com/zoghal )
 
-Editor : [Mohammad Saleh Souzanchi](https://github.com/zoghal )
-
-Demo : http://ritaco.github.io/WebFont-Nastaliq/
+Demo : http://font-store.github.io/font-IranNastaliq
 * * *
 
 ?  		      |	   Old Version	 | New Version |
